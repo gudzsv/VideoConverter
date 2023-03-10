@@ -1,0 +1,17 @@
+{
+  "name": "videoconverter",
+  "version": "1.0.0",
+  "description": "Video Converter App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Serhii Hudzenko",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
